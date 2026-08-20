@@ -1,0 +1,12 @@
+# SYNTHETIC EXAMPLE ONLY. These records do not describe real storms or observations.
+# Fixed fields after YYYYMMDD HHMM are latitude, longitude, motion direction,
+# motion speed, central pressure, environmental pressure, outer-isobar radius,
+# Vmax (m/s), and RMW (km). The extra trailing fields are unused here.
+JTWC 13L SYNTHETIC 20230907 0000 216N 0534W 270 05 0950 1010 0400 40 50 0 0
+NHC  13L SYNTHETIC 20230907 0000 218N 0531W 270 05 0950 1010 0400 45 30 0 0
+JTWC 07W SYNTHETIC 20230907 0600 123S 1505E 180 04 0970 1010 0350 38 42 0 0
+JTWC 02B SYNTHETIC 20230907 1200 145N 0862E 315 03 0980 1010 0300 30 55 0 0
+JTWC 04P SYNTHETIC 20230907 1800 167S 1684E 090 06 0960 1010 0375 41 36 0 0
+# The following synthetic lines demonstrate records intentionally filtered out:
+JTWC 91W SYNTHETIC 20230907 1800 150N 1400E 270 05 0990 1010 0200 20 80 0 0
+JTWC 05L SYNTHETIC 20230907 0300 200N 0600W 270 05 0990 1010 0200 20 80 0 0

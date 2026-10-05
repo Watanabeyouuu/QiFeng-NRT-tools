@@ -13,7 +13,7 @@ Install the Python dependencies with `pip install -r requirements.txt`. Reading 
 
 ## Source data
 
-Download the figure and table source data from [Zenodo](https://doi.org/10.5281/zenodo.23153076).
+Download the figure and table source data from [Zenodo](https://doi.org/10.5281/zenodo.23159456).
 
 The source-data archive contains the numerical values underlying the article's figures and tables. Its README describes the files, variables and units.
 
